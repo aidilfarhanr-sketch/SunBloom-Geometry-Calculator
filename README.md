@@ -48,11 +48,4 @@ https://calkulator-geometri.netlify.app/
 
 Tidak perlu login, tidak perlu instalasi, dan bisa langsung digunakan melalui browser.
 
-## Cara Menjalankan Project Secara Lokal
 
-Jika ingin menjalankan project ini di komputer sendiri, ikuti langkah berikut:
-
-1. Clone repository ini
-
-```bash
-git clone https://github.com/username/nama-repository.git
